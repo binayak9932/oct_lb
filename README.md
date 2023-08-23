@@ -27,8 +27,8 @@ To run the code in this lab, you will need:
 
 To run the code in this lab, you will need:
 
-- Octave installed on your computer  
-- The Octave signal processing toolkit
+- Octave/matlab installed on your computer  
+- The Octave/matlab signal processing toolkit
 
 
 
