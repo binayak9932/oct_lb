@@ -1,5 +1,3 @@
-Here is the README in Markdown format:
-
 # Signal Systems Lab
 
 This lab uses Octave to explore concepts in signal systems.
